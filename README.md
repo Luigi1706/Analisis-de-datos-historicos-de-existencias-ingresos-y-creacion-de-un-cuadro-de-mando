@@ -1,0 +1,1 @@
+# Analisis-de-datos-historicos-de-existencias-ingresos-y-creacion-de-un-cuadro-de-mando
